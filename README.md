@@ -19,15 +19,15 @@
 ## AIFFEL Exploration
 |No|프로젝트 제목|링크|
 |:---:|:---:|:---:|:---:|
-|1|3가지 데이터셋을 이용한 머신러닝 (digits, wine, breast_cancer)|[Link]https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_01%5D_iris_exploration.ipynb|
-|2|프로젝트 : 회귀분석|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-02%5D_diabetes_and_cycle_exploration.ipynb)|
-|3|캐글 데이터 분석 : 아파트 실거래가 예측|:star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-03%5D_apartment_price.ipynb)|
-|4|프로젝트 : 주식 예측|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-04%5D_Time_Series_fin_220927.ipynb)|
-|5|프로젝트 : 딥러닝과 가위바위보|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-05%5D_rock_scissor_paper_fin.ipynb)|
-|6|프로젝트 : 멋진 작사가 만들기|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-06%5D_nlp_model_fin_221005.ipynb)|
-|7|프로젝트 : 카메라 스티커 앱 만들기|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-07%5D_sticker_fin_221013.ipynb)|
-|8|프로젝트 : 네이버 영화리뷰 감성 분석|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-08%5D_review_fin_221011.ipynb)|
-|9|프로젝트 : 인물모드 사진 블러처리하기|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-09%5D_blur_chromakey_fin.ipynb)|
-|10|프로젝트 : seq2seq 번역기 만들기|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-10%5D_translation_fin.ipynb)|
-|11|프로젝트 : CIFAR-10을 이용한 GAN|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-11%5D_gan_fin.ipynb)|
-|12|프로젝트 : 뉴스기사 요약하기|:star::star::star:|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-12%5D_news_fin.ipynb)|
+|1|3가지 데이터셋을 이용한 머신러닝 (digits, wine, breast_cancer)|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_01%5D_iris_exploration.ipynb)|
+|2|프로젝트 : 회귀분석|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_02%5D_bike_exploration.ipynb)|
+|3|캐글데이터 분석 : 아파트 실거래가 예측|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_03%5D_House_price_exploration.ipynb)|
+|4|프로젝트 : 주식 예측|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-04%5D_Time_Series_fin_220927.ipynb)|
+|5|프로젝트 : 딥러닝과 가위바위보|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-05%5D_rock_scissor_paper_fin.ipynb)|
+|6|프로젝트 : 멋진 작사가 만들기|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-06%5D_nlp_model_fin_221005.ipynb)|
+|7|프로젝트 : 카메라 스티커 앱 만들기|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-07%5D_sticker_fin_221013.ipynb)|
+|8|프로젝트 : 네이버 영화리뷰 감성 분석|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-08%5D_review_fin_221011.ipynb)|
+|9|프로젝트 : 인물모드 사진 블러처리하기|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-09%5D_blur_chromakey_fin.ipynb)|
+|10|프로젝트 : seq2seq 번역기 만들기|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-10%5D_translation_fin.ipynb)|
+|11|프로젝트 : CIFAR-10을 이용한 GAN||[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-11%5D_gan_fin.ipynb)|
+|12|프로젝트 : 뉴스기사 요약하기|[Link](https://github.com/Ukbang/Exploration/blob/master/%5BE-12%5D_news_fin.ipynb)|
