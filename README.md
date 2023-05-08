@@ -32,4 +32,4 @@
 |10|seq2seq 번역기 만들기(NLP Task)|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_10%5D_Creating%20a%20Translator.ipynb)|
 |11|CIFAR-10을 이용한 GAN(CV Task)|:star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_11%5D_new_fashion.ipynb)|
 |12|뉴스기사 요약하기(NLP Task)|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_12%5D_news_summarization.ipynb)|
-|13|영화 추천 시스템 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_12%5D_news_summarization.ipynb)|
+|13|영화 추천 시스템 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_13%5D_Recommended%20System.ipynb)|
