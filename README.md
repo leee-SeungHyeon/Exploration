@@ -28,7 +28,7 @@
 |6|인공지능 작사가 만들기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_06%5D_AI_Lyricister_exploration.ipynb)|
 |7|카메라 스티커앱 만들기|:star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_07%5D_camera_sticker_maker.ipynb)|
 |8|영화리뷰 텍스트 감성분석하기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_08%5D_naver_movie_review.ipynb)|
-|9|인물사진을 만들어 보자|미평가|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_09%5D_Create_a_picture.ipynb)|
+|9|인물사진을 만들어 보자|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_09%5D_Create_a_picture.ipynb)|
 |10|seq2seq 번역기 만들기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_10%5D_Creating%20a%20Translator.ipynb)|
 |11|CIFAR-10을 이용한 GAN|:star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_11%5D_new_fashion.ipynb)|
 |12|뉴스기사 요약하기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_12%5D_news_summarization.ipynb)|
