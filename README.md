@@ -33,5 +33,5 @@
 |11|CIFAR-10을 이용한 GAN|:star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_11%5D_new_fashion.ipynb)|
 |12|뉴스기사 요약하기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_12%5D_news_summarization.ipynb)|
 |13|영화 추천 시스템 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_13%5D_Recommended%20System.ipynb)|
-|14|트랜스포머를 활용한 챗봇 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_14%5D_transformer_chatbot.ipynb)|
+|14|트랜스포머를 활용한 챗봇 만들기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_14%5D_transformer_chatbot.ipynb)|
 |15|OCR 판독기 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Exploration/blob/master/%5BE_15%5D_OCR_reader.ipynb)|
